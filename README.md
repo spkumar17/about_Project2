@@ -45,6 +45,17 @@ Designed and deployed a secure and scalable cloud architecture using **Terraform
 - **Application**: PetClinic (Java-based)  
 - **Access Management**: AWS Systems Manager (SSM)  
 
+## Architecture diagram 
+
+![Screenshot](image.png)
+
+
+### view below repo's 
+   ```
+    https://github.com/spring-projects/spring-petclinic.git
+
+
+   ```
 ---
 
 
